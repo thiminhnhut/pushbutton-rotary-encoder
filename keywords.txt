@@ -1,0 +1,19 @@
+#################################################
+# Syntax Coloring Map For PushButtonRotaryEncoder
+#################################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PushButtonRotaryEncoder	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getPushButton	KEYWORD2
+waitRotary	KEYWORD2
+
+setRotary	KEYWORD2
+rotaryData	KEYWORD2
