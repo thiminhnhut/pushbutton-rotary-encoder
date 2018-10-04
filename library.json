@@ -1,0 +1,19 @@
+{
+    "name": "PushButtonRotaryEncoder",
+    "keywords": "Push Button, Rotary Encoder",
+    "description": "Push Button Rotary Encoder Library",
+    "authors": {
+        "name": "thiminhnhut",
+        "url": "https://github.com/thiminhnhut"
+    },
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thiminhnhut/pushbutton-rotary-encoder.git"
+    },
+    "export": {
+        "include": "PushButtonRotaryEncoder"
+    },
+    "frameworks": "arduino",
+    "platforms": "espressif8266"
+}
