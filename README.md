@@ -6,9 +6,9 @@
 
 * Tạo thư mục ``examples`` và viết ví dụ sử dụng thư viện trong thư mục ``examples``.
 
-* Tạo các file ``library.properties`` và ``keywords.txt``:
+* Tạo các file ``library.properties`` và ``keywords.txt``.
 
-* File ``library.properties`` có chứa đầy đủ các nội dung:
+  * File ``library.properties`` có chứa đầy đủ các nội dung:
 
         name=PushButtonRotaryEncoder
         version=1.0.0
