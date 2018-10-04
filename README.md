@@ -2,7 +2,7 @@
 
 ## Ví dụ cách tạo thư viện cho Arduino
 
-* Tạo thư mục ``src`` và viết thư viện gồm ``Lib.h`` và ``Lib.cpp``.
+* Tạo thư mục ``src`` và viết thư viện gồm ``PushButtonRotaryEncoder.h`` và ``PushButtonRotaryEncoder.cpp``.
 
 * Tạo thư mục ``examples`` và viết ví dụ sử dụng thư viện trong thư mục ``examples``.
 
