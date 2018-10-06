@@ -4,7 +4,9 @@
     "description": "Push Button Rotary Encoder Library",
     "authors": {
         "name": "thiminhnhut",
-        "url": "https://github.com/thiminhnhut"
+        "email": "thiminhnhut@gmail.com",
+        "url": "https://github.com/thiminhnhut",
+        "maintainer": true
     },
     "version": "1.0.0",
     "repository": {
